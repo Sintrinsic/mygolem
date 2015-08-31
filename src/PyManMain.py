@@ -10,9 +10,8 @@ from helpers import *
 from Tank import *
 from Tile import *
 from Tile_Conveyer import *
-from _snack import size
 
-
+#V's random edit. HII!!!
 if not pygame.font: print 'Warning, fonts disabled'
 if not pygame.mixer: print 'Warning, sound disabled'
 
